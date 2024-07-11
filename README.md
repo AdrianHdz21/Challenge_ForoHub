@@ -35,7 +35,7 @@ properties
 
 spring.datasource.url=jdbc:postgresql://<HOST_BD>/<NAME_DB>
 
-spring.datasource.username=<USUARIO>
+spring.datasource.username= <USUARIO>
 
 spring.datasource.password=<CONTRASEÑA>
 
