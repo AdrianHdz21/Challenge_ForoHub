@@ -34,7 +34,9 @@ Crea una base de datos PostgreSQL y configura las credenciales en el archivo app
 properties
 
 spring.datasource.url=jdbc:postgresql://<HOST_BD>/<NAME_DB>
+
 spring.datasource.username=<USUARIO>
+
 spring.datasource.password=<CONTRASEÑA>
 
 ## Instala las dependencias:
